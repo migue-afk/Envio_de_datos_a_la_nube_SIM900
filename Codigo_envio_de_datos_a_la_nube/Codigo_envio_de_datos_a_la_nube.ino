@@ -1,5 +1,5 @@
 
-#include <SoftwareSerial.h>
+#include <SoftwareSerial.h>////LINEA DE CODIGO
 SoftwareSerial SIM900(7, 8);
 
 #define APN "internet.movistar.com.ec"
