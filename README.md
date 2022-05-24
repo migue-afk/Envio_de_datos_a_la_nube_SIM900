@@ -7,4 +7,4 @@ Colocado la APN dependiente del proveedor del servicio de telefonía móvil y la
 
 La línea de código 67 dedicada a la URL que direcciona el dispositivo físico tiene la siguiente estructura https://**************/srv/rest/DATOGSM?serial=NOMBREDEL DISPOSITIVO &dato=1&bateria=5&memoria=5
 
-Se recomienda antes de emplear el código en un microcontrolador realizar las pruebas de comunicación y requerimientos mediante software dedicado como Postman o SoapUI.
+ *Se recomienda antes de emplear el código en un microcontrolador realizar las pruebas de comunicación y requerimientos mediante software dedicado como  Postman o SoapUI.*
